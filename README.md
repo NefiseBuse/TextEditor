@@ -1,4 +1,4 @@
-#Text Editor
+# Text Editor
 
 **TextEditor**, metin üzerinde temel düzenleme işlemlerini gerçekleştirebilen, geri alma (undo) ve yineleme (redo) özelliklerini destekleyen bir metin düzenleyicisidir. 
 Stack (yığın) tabanlı bir yapı kullanılarak geliştirilen bu uygulama, yapılan değişikliklerin izlenmesini ve geri alınabilmesini kolaylaştırır.
